@@ -22,7 +22,7 @@ Saya seorang **React Developer**
 <!-- Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/senbidev/) ku ya. -->
 Jika kamu tertarik untuk berkenalan denganku, silakan berkunjung ke akun berikut ya:
 
-  <a href="https://www.linkedin.com/in/senbidev/"><img align="left" alt="LinkedIn" title="LinkedIn" width="21px" src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" /></a>
+  <a href="https://www.linkedin.com/in/senbidev/"><img align="left" alt="LinkedIn" title="LinkedIn" width="71px" src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" /></a>
 <br>
 <br>
 
