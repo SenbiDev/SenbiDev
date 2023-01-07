@@ -28,6 +28,7 @@ Jika kamu tertarik untuk mengenal lebih jauh, silakan berkunjung ke akun berikut
 <br>
 <br>
 
+
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" title="TypeScript" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/64px-Typescript.svg.png" /></a>
