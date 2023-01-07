@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 # Halo semua! 
 
-Perkenalkan nama saya **Muhammad Husen Habibi**.\
+Perkenalkan nama saya **Muhammad Husen Habibi**
 
-Saya seorang **React Developer**.\
+Saya seorang **React Developer**
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/senbidev/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/senbidev/) ku ya.
