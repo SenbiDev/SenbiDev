@@ -22,22 +22,24 @@ Saya seorang **React Developer**
 <!-- Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/senbidev/) ku ya. -->
 Jika kamu tertarik untuk mengenal lebih jauh, silakan berkunjung ke akun berikut:
 
+<p>
   <a href="https://www.linkedin.com/in/senbidev/"><img align="left" alt="LinkedIn" title="LinkedIn" width="51px" src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" /></a>
   <a href="https://www.dicoding.com/users/musenbi/academies"><img align="left" alt="Dicoding" title="Dicoding" width="51px" src="https://secure.gravatar.com/avatar/356807ae3e55b3b72ffa70c7749a51d4?s=96&d=blank&r=g" /></a>
   <a href="https://buildwithangga.com/talent/senbidev884"><img align="left" alt="BuildWith Angga" title="BuildWith Angga" width="51px" src="https://buildwithangga.com/themes/front/images/logo_bwa_new.svg" /></a>
-  <br>
-  <br>
-  <br>
+</p>
+<br>
+<br>
+<br>
 
 ### Github Statistic
-
+<p>
 <a href="https://github.com/SenbiDev">
   <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SenbiDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/SenbiDev">
   <img height="180px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenbiDev&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-
+</p>
 
 ### Tech Stack
 <p>
