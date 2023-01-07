@@ -44,6 +44,8 @@ Jika kamu tertarik untuk mengenal lebih jauh, silakan berkunjung ke akun berikut
     <a href="https://reactnativepaper.com/"><img align="left" alt="React Native Paper" title="React Native Paper" width="31px" src="https://pbs.twimg.com/profile_images/1197491571849084933/HAwtsa-i_400x400.jpg" /></a>
   <br>
   <br>
+  <br>
+  <br>
 
 ### Github Statistic
 <p align="left">
