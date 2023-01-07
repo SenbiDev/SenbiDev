@@ -45,11 +45,6 @@ Jika kamu tertarik untuk mengenal lebih jauh, silakan berkunjung ke akun berikut
   </p>
   <br>
   <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
 
 ### Github Statistic
 <p align="left">
