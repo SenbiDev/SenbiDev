@@ -29,6 +29,14 @@ Jika kamu tertarik untuk mengenal lebih jauh, silakan berkunjung ke akun berikut
   <br>
   <br>
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/SenbiDev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SenbiDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenbiDev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### Tech Stack
 <p>
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -43,17 +51,6 @@ Jika kamu tertarik untuk mengenal lebih jauh, silakan berkunjung ke akun berikut
     <a href="https://mui.com/"><img align="left" alt="Material UI" title="Material UI" width="31px" src="https://mui.com/static/logo.png" /></a>
     <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" /></a>
     <a href="https://reactnativepaper.com/"><img align="left" alt="React Native Paper" title="React Native Paper" width="31px" src="https://pbs.twimg.com/profile_images/1197491571849084933/HAwtsa-i_400x400.jpg" /></a>
-</p>
-<br>
-<br>
-<br>
-
-### Github Statistic
-<p align="left">
-<a href="https://github.com/SenbiDev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SenbiDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenbiDev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 </p>
 
 
