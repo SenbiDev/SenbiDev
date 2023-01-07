@@ -28,7 +28,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan berkunjung ke akun berikut
 <br>
 <br>
 <br>
-<br>
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
