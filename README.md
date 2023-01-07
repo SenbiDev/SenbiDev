@@ -29,7 +29,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <a href="https://www.java.com/en/"><img align="left" alt="Java" title="Java" width="21px" src="https://www.shareicon.net/data/256x256/2016/09/23/833700_windows_512x512.png" /></a>
     <a href="https://kotlinlang.org/"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin-icon.svg" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React Native" title="React Native" width="21px" src="https://w7.pngwing.com/pngs/363/962/png-transparent-react-native-hd-logo.png" /></a>
+  <a href="https://reactnative.dev/"><img align="left" alt="React Native" title="React Native" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
   <br>
   <br>
