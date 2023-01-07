@@ -25,6 +25,10 @@ Jika kamu tertarik untuk berkenalan denganku, silakan berkunjung ke akun berikut
   <a href="https://www.linkedin.com/in/senbidev/"><img align="left" alt="LinkedIn" title="LinkedIn" width="71px" src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" /></a>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
