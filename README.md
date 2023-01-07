@@ -27,13 +27,9 @@ Jika kamu tertarik untuk mengenal lebih jauh, silakan berkunjung ke akun berikut
   <a href="https://buildwithangga.com/talent/senbidev884"><img align="left" alt="BuildWith Angga" title="BuildWith Angga" width="51px" src="https://buildwithangga.com/themes/front/images/logo_bwa_new.svg" /></a>
   <br>
   <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
 
 ### Tech Stack
+<p>
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://www.typescriptlang.org/"><img align="left" alt="TypeScript" title="TypeScript" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Typescript.svg/64px-Typescript.svg.png" /></a>
   <a href="https://www.java.com/en/"><img align="left" alt="Java" title="Java" width="31px" src="https://www.shareicon.net/data/256x256/2016/09/23/833700_windows_512x512.png" /></a>
@@ -46,6 +42,7 @@ Jika kamu tertarik untuk mengenal lebih jauh, silakan berkunjung ke akun berikut
     <a href="https://mui.com/"><img align="left" alt="Material UI" title="Material UI" width="31px" src="https://mui.com/static/logo.png" /></a>
     <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" /></a>
     <a href="https://reactnativepaper.com/"><img align="left" alt="React Native Paper" title="React Native Paper" width="31px" src="https://pbs.twimg.com/profile_images/1197491571849084933/HAwtsa-i_400x400.jpg" /></a>
+  </p>
   <br>
   <br>
   <br>
