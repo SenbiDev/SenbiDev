@@ -32,6 +32,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://reactnative.dev/"><img align="left" alt="React Native" title="React Native" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
+    <a href="https://next-auth.js.org/"><img align="left" alt="NextAuth" title="NextAuth" width="21px" src="https://next-auth.js.org/img/logo/logo-sm.png" /></a>
   <br>
   <br>
 
