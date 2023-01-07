@@ -24,6 +24,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan berkunjung ke akun berikut
 
   <a href="https://www.linkedin.com/in/senbidev/"><img align="left" alt="LinkedIn" title="LinkedIn" width="71px" src="https://pbs.twimg.com/profile_images/1508518003184349187/1KQYoqPY_400x400.png" /></a>
   <a href="https://www.dicoding.com/users/musenbi/academies"><img align="left" alt="Dicoding" title="Dicoding" width="71px" src="https://secure.gravatar.com/avatar/356807ae3e55b3b72ffa70c7749a51d4?s=96&d=blank&r=g" /></a>
+  <a href="https://buildwithangga.com/talent/senbidev884"><img align="left" alt="BuildWith Angga" title="BuildWith Angga" width="71px" src="https://buildwithangga.com/themes/front/images/logo_bwa_new.svg" /></a>
 <br>
 <br>
 <br>
