@@ -42,18 +42,9 @@ Jika kamu tertarik untuk mengenal lebih jauh, silakan berkunjung ke akun berikut
     <a href="https://mui.com/"><img align="left" alt="Material UI" title="Material UI" width="31px" src="https://mui.com/static/logo.png" /></a>
     <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" /></a>
     <a href="https://reactnativepaper.com/"><img align="left" alt="React Native Paper" title="React Native Paper" width="31px" src="https://pbs.twimg.com/profile_images/1197491571849084933/HAwtsa-i_400x400.jpg" /></a>
-  </p>
-  <br>
-  <br>
-
-
-
-
-
-
-
-
-
+</p>
+<br>
+<br>
 
 ### Github Statistic
 <p align="left">
