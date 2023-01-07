@@ -27,7 +27,6 @@ Jika kamu tertarik untuk mengenal lebih jauh, silakan berkunjung ke akun berikut
   <a href="https://buildwithangga.com/talent/senbidev884"><img align="left" alt="BuildWith Angga" title="BuildWith Angga" width="51px" src="https://buildwithangga.com/themes/front/images/logo_bwa_new.svg" /></a>
 <br>
 <br>
-<br>
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="31px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
