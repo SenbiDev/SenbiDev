@@ -33,6 +33,10 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <a href="https://reactnative.dev/"><img align="left" alt="React Native" title="React Native" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
   <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
     <a href="https://next-auth.js.org/"><img align="left" alt="NextAuth" title="NextAuth" width="21px" src="https://next-auth.js.org/img/logo/logo-sm.png" /></a>
+    <a href="https://mui.com/"><img align="left" alt="Material UI" title="Material UI" width="21px" src="https://mui.com/static/logo.png" /></a>
+    <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" /></a>
+    <a href="https://next-auth.js.org/"><img align="left" alt="NextAuth" title="NextAuth" width="21px" src="https://next-auth.js.org/img/logo/logo-sm.png" /></a>
+    <a href="https://next-auth.js.org/"><img align="left" alt="NextAuth" title="NextAuth" width="21px" src="https://next-auth.js.org/img/logo/logo-sm.png" /></a>
   <br>
   <br>
 
