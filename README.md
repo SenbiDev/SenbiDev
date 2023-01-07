@@ -35,8 +35,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
     <a href="https://next-auth.js.org/"><img align="left" alt="NextAuth" title="NextAuth" width="21px" src="https://next-auth.js.org/img/logo/logo-sm.png" /></a>
     <a href="https://mui.com/"><img align="left" alt="Material UI" title="Material UI" width="21px" src="https://mui.com/static/logo.png" /></a>
     <a href="https://tailwindcss.com/"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" /></a>
-    <a href="https://next-auth.js.org/"><img align="left" alt="NextAuth" title="NextAuth" width="21px" src="https://next-auth.js.org/img/logo/logo-sm.png" /></a>
-    <a href="https://next-auth.js.org/"><img align="left" alt="NextAuth" title="NextAuth" width="21px" src="https://next-auth.js.org/img/logo/logo-sm.png" /></a>
+    <a href="https://reactnativepaper.com/"><img align="left" alt="React Native Paper" title="React Native Paper" width="21px" src="https://pbs.twimg.com/profile_images/1197491571849084933/HAwtsa-i_400x400.jpg" /></a>
   <br>
   <br>
 
