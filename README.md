@@ -23,7 +23,7 @@ Saya seorang **React Developer**
 Jika kamu tertarik untuk mengenal lebih jauh, silakan berkunjung ke akun berikut:
 
 <p>
-  <a href="https://www.linkedin.com/in/senbidev"><img align="left" alt="LinkedIn" title="LinkedIn" width="51px" src="https://w7.pngwing.com/pngs/183/397/png-transparent-social-media-linkedin-logo-computer-icons-social-network-social-media-blue-text-rectangle.png" /></a>
+  <a href="https://www.linkedin.com/in/senbidev"><img align="left" alt="LinkedIn" title="LinkedIn" width="51px" src="https://firebasestorage.googleapis.com/v0/b/foodies-firebase-20f8c.appspot.com/o/linked.png?alt=media&token=e5d40bb5-f2fd-45ba-8411-1d82e520835e" /></a>
   <a href="https://www.dicoding.com/users/musenbi/academies"><img align="left" alt="Dicoding" title="Dicoding" width="51px" src="https://secure.gravatar.com/avatar/356807ae3e55b3b72ffa70c7749a51d4?s=96&d=blank&r=g" /></a>
   <a href="https://buildwithangga.com/talent/senbidev884"><img align="left" alt="BuildWith Angga" title="BuildWith Angga" width="51px" src="https://buildwithangga.com/themes/front/images/logo_bwa_new.svg" /></a>
 </p>
