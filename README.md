@@ -34,7 +34,7 @@ Jika kamu tertarik untuk mengenal lebih jauh, silakan berkunjung ke akun berikut
 ### Github Statistic
 <p>
 <a href="https://github.com/SenbiDev">
-  <img height="140px" src="https://firebasestorage.googleapis.com/v0/b/foodies-firebase-20f8c.appspot.com/o/linked.png?alt=media&token=e5d40bb5-f2fd-45ba-8411-1d82e520835e"/>
+  <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SenbiDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/SenbiDev">
   <img height="140px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SenbiDev&layout=compact&langs_count=8&theme=algolia"/>
